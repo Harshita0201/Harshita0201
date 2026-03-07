@@ -9,7 +9,7 @@
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 💼 Software Engineer at **HSBC Technology India**
 - 🧠 Building **AI-powered productivity tools for 170k+ users**
@@ -21,7 +21,7 @@
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 
@@ -62,9 +62,9 @@
 
 ---
 
-# 🌟 Top Projects
+## 🌟 Top Projects
 
-## 🚀 QuickAI – AI Creative Suite
+### 🚀 QuickAI – AI Creative Suite
 **Full-stack AI SaaS platform**
 
 - Built using **React, Node.js, Express**
@@ -77,7 +77,7 @@
 
 ---
 
-## 👁 Eye Disease Classifier
+### 👁 Eye Disease Classifier
 
 Deep learning model for retinal disease detection.
 
@@ -91,7 +91,7 @@ Deep learning model for retinal disease detection.
 
 ---
 
-## 🔐 Secure Blogging Platform
+### 🔐 Secure Blogging Platform
 
 Anonymous blogging platform with secure authentication.
 
