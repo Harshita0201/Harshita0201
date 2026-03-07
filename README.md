@@ -108,24 +108,22 @@ Anonymous blogging platform with secure authentication.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshita0201&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita0201&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshita0201&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
 ## 🔥 GitHub Streak
+
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Harshita0201&theme=tokyonight"/>
 </p>
 
 ---
-# 🏆 LeetCode Stats
+## 🏆 LeetCode Stats
 <p align="center">
 <a href="https://leetcode.com/u/_harshita_sharma/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
