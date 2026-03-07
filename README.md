@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshita Sharma</h1>
 <h3 align="center">Full Stack Engineer | AI Enthusiast | MERN + Python</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+at+HSBC;Full+Stack+Developer;AI+%2B+LLM+Applications;Cloud+%7C+MERN+%7C+Python&center=true&width=500&height=45">
-</p>
+<h3 align="center">Software Engineer at HSBC • Full Stack Developer • AI + LLM Applications • Cloud | MERN | Python</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Harshita0201&label=Profile%20views&color=0e75b6&style=flat"/>
@@ -127,6 +125,11 @@ Anonymous blogging platform with secure authentication.
 </p>
 
 ---
+<p align="center">
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
 
 # 🤝 Let's Connect
 
