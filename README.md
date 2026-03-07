@@ -104,7 +104,7 @@ Anonymous blogging platform with secure authentication.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -118,15 +118,16 @@ Anonymous blogging platform with secure authentication.
 
 # 🔥 GitHub Streak
 
+## 🔥 GitHub Streak
+
 <p align="center">
-
 <img src="https://streak-stats.demolab.com/?user=Harshita0201&theme=tokyonight"/>
-
 </p>
 
 ---
+# 🏆 LeetCode Stats
 <p align="center">
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/u/_harshita_sharma/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 </p>
