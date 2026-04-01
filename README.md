@@ -73,7 +73,7 @@
 - Features include AI article generation, resume analysis, and image editing
 
 🔗 Repository:  
-`[https://github.com/yourusername/quickai](https://github.com/Harshita0201/quickai)`
+`https://github.com/yourusername/quickai](https://github.com/Harshita0201/quickai`
 
 ---
 
