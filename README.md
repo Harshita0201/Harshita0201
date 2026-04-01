@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshita Sharma</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | MERN + Python</h3>
 
-<h3 align="center">Software Engineer at HSBC • AI + LLM Applications • Cloud •  Machine Learning •  Blockchain</h3>
+<h3 align="center">Software Engineer at HSBC • AI + LLM Applications • Machine Learning • Cloud • MERN </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Harshita0201&label=Profile%20views&color=0e75b6&style=flat"/>
